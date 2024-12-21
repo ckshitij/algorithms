@@ -34,7 +34,7 @@ To add this module to your project, run:
 
 ```bash
 go get github.com/ckshitij/algorithms
-
+```
 
 ## Example 
 
