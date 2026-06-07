@@ -1,0 +1,27 @@
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+
+# Dependencies
+vendor/
+node_modules/
+
+# Build artifacts and binaries
+bin/
+dist/
+build/
+out/
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Go
+*.test
+
+# Heavy directories
+.git/
