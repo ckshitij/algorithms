@@ -1,0 +1,13 @@
+# CODEOWNERS — placeholder team entries; replace with your org/team handles.
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default owners for everything in the repository
+* @ckshitij/maintainers
+
+# Package areas
+/algos/ @ckshitij/algorithms-team
+/search/ @ckshitij/algorithms-team
+/sort/ @ckshitij/algorithms-team
+
+# Repository metadata
+/.github/ @ckshitij/maintainers
